@@ -1,6 +1,6 @@
 # Bypass UAC
 This project can bypass UAC on an administrator account with default UAC settings  
-The project contains snippets from the UacMe project by hfiref0x, but formatted to work with the [c# R.A.T Client](https://github.com/AdvancedHacker101/C-Sharp-R.A.T-Client)  
+ 
 ## Disclaimer
 This application is for educational purposes only.  
 Using this tool without understanding how it's working can lead to negative consequences  
@@ -29,12 +29,5 @@ After this the High IL Dll executes the R.A.T client with admin privs
 **x64 Release** build of testAnything  
 **x64 Release** build of copyFile  
 
-The tool was tested on a Windows7 x64 bit machine  
+The tool was tested on a Windows7  and  Windows10 x64 bits machine  
 The source code in this form only works with the c# R.A.T client, but you can modify it for your own project  
-## More Information  
-You can read information related to contribution [here](https://github.com/AdvancedHacker101/Bypass-Uac/blob/master/CONTRIBUTING.md)  
-You can read the Code of Conduct [here](https://github.com/AdvancedHacker101/Bypass-Uac/blob/master/CODE_OF_CONDUCT.md)  
-You can view the project's licence [here](https://github.com/AdvancedHacker101/Bypass-Uac/blob/master/LICENSE)  
-*Happy Coding*
-
-**-Advanced Hacking 101**
